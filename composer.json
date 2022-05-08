@@ -1,0 +1,25 @@
+{
+    "name": "muhammetsafak/secret-cookies",
+    "description": "It offers a more secure cookie storage opportunity by encrypting cookies.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MuhammetSafak\\SecretCookies\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammet ŞAFAK",
+            "email": "info@muhammetsafak.com.tr",
+            "role": "Developer",
+            "homepage": "https://www.muhammetsafak.com.tr"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.4",
+        "initphp/parameterbag": "^1.0",
+        "initphp/encryption": "^1.0"
+    }
+}
