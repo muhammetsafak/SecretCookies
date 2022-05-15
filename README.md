@@ -2,7 +2,7 @@
 
 It offers a more secure cookie storage opportunity by encrypting cookies.
 
-[![Latest Stable Version](http://poser.pugx.org/muhammetsafak/secret-cookie/v)](https://packagist.org/packages/muhammetsafak/secret-cookie) [![Total Downloads](http://poser.pugx.org/muhammetsafak/secret-cookie/downloads)](https://packagist.org/packages/muhammetsafak/secret-cookie) [![Latest Unstable Version](http://poser.pugx.org/muhammetsafak/secret-cookie/v/unstable)](https://packagist.org/packages/muhammetsafak/secret-cookie) [![License](http://poser.pugx.org/muhammetsafak/secret-cookie/license)](https://packagist.org/packages/muhammetsafak/secret-cookie) [![PHP Version Require](http://poser.pugx.org/muhammetsafak/secret-cookie/require/php)](https://packagist.org/packages/muhammetsafak/secret-cookie)
+[![Latest Stable Version](http://poser.pugx.org/muhammetsafak/secret-cookies/v)](https://packagist.org/packages/muhammetsafak/secret-cookies) [![Total Downloads](http://poser.pugx.org/muhammetsafak/secret-cookies/downloads)](https://packagist.org/packages/muhammetsafak/secret-cookies) [![Latest Unstable Version](http://poser.pugx.org/muhammetsafak/secret-cookies/v/unstable)](https://packagist.org/packages/muhammetsafak/secret-cookies) [![License](http://poser.pugx.org/muhammetsafak/secret-cookies/license)](https://packagist.org/packages/muhammetsafak/secret-cookies) [![PHP Version Require](http://poser.pugx.org/muhammetsafak/secret-cookies/require/php)](https://packagist.org/packages/muhammetsafak/secret-cookies)
 
 ## Requirements
 
